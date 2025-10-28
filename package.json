@@ -1,0 +1,23 @@
+{
+  "name": "js-useragent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "npx tsc index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micabi/js-useragent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micabi/js-useragent/issues"
+  },
+  "homepage": "https://github.com/micabi/js-useragent#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
